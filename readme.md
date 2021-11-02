@@ -1,6 +1,6 @@
 # PDF Research
 
-Fills in the relevant fields in `files/ssn.pdf` given a provided collection of data. Uses [itext7](https://github.com/itext/itext7-dotnet) to retrieve and set field data.
+Fills in the relevant fields in [files/ssn.pdf](./files) given a provided collection of data. Uses [itext7](https://github.com/itext/itext7-dotnet) to retrieve and set field data.
 
 **Relevant Files**  
 
